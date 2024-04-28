@@ -5,7 +5,7 @@ O alurabooks foi feito para fins educacionais e aperfeiçoção do meu conhecime
 * HTML
 * CSS
 * Figma
-* Flexbox
+* JS
 
 # Curso 🏫
 Com a conclusão deste projeto, conclui também o curso de responsividade da Alura
